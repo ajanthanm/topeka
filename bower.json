@@ -15,5 +15,8 @@
   ],
   "dependencies": {
     "topeka-elements": "Polymer/topeka-elements#master"
+  },
+  "resolutions": {
+    "topeka-elements": "master"
   }
 }
